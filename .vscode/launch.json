@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AvaliacaobkendApplication<avaliacaobkend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.tech4me.avaliacaobkend.AvaliacaobkendApplication",
+            "projectName": "avaliacaobkend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
